@@ -1,0 +1,1291 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "spxm-tnai",
+      "name" : "Christmas Tree Recycling Locations 2013",
+      "assetType" : "dataset",
+      "attribution" : "City of Chicago",
+      "attributionLink" : "http://www.cityofchicago.org/city/en/depts/streets/provdrs/streets_san/news/2012/dec/city_of_chicago_toofferchristmastreerecyclingat.html",
+      "averageRating" : 0,
+      "category" : "Environment & Sustainable Development",
+      "createdAt" : 1357610342,
+      "description" : "Locations provided by the city to recycle Christmas trees from January 5-18, 2013. For more information, see http://www.cityofchicago.org/city/en/depts/streets/provdrs/streets_san/news/2012/dec/city_of_chicago_toofferchristmastreerecyclingat.html",
+      "displayType" : "table",
+      "downloadCount" : 2205,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1414516969,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 2177105,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1357610618,
+      "publicationGroup" : 601099,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1357610347,
+      "rowsUpdatedBy" : "3qqc-w7ag",
+      "tableId" : 601099,
+      "totalTimesRated" : 0,
+      "viewCount" : 1603,
+      "viewLastModified" : 1531341766,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1357610618,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 939508,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1357610618,
+        "workflowId" : 2226,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "scy9-9wg4",
+          "displayName" : "cocadmin"
+        }
+      } ],
+      "clientContext" : {
+        "clientContextVariables" : [ ]
+      },
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 38016842,
+        "name" : "COMMUNITY AREA NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "community_area_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 6719624,
+        "width" : 212,
+        "cachedContents" : {
+          "non_null" : 23,
+          "largest" : "Woodlawn",
+          "null" : "0",
+          "top" : [ {
+            "item" : "Pullman",
+            "count" : "1"
+          }, {
+            "item" : "Mckinley Park",
+            "count" : "1"
+          }, {
+            "item" : "East Side",
+            "count" : "1"
+          }, {
+            "item" : "North Center",
+            "count" : "1"
+          }, {
+            "item" : "Norwood Park",
+            "count" : "1"
+          }, {
+            "item" : "West Town",
+            "count" : "1"
+          }, {
+            "item" : "South Chicago",
+            "count" : "1"
+          }, {
+            "item" : "Douglas",
+            "count" : "1"
+          }, {
+            "item" : "Woodlawn",
+            "count" : "1"
+          }, {
+            "item" : "Belmont Cragin",
+            "count" : "1"
+          }, {
+            "item" : "North Park",
+            "count" : "1"
+          }, {
+            "item" : "Morgan Park",
+            "count" : "1"
+          }, {
+            "item" : "Uptown",
+            "count" : "1"
+          }, {
+            "item" : "Mount Greenwood",
+            "count" : "1"
+          }, {
+            "item" : "Loop",
+            "count" : "1"
+          }, {
+            "item" : "Near West Side",
+            "count" : "1"
+          }, {
+            "item" : "Lincoln Park",
+            "count" : "1"
+          }, {
+            "item" : "East Garfield Park",
+            "count" : "1"
+          }, {
+            "item" : "Portage Park",
+            "count" : "1"
+          }, {
+            "item" : "Hermosa",
+            "count" : "1"
+          } ],
+          "smallest" : "Belmont Cragin",
+          "not_null" : "23",
+          "cardinality" : "23"
+        },
+        "format" : { }
+      }, {
+        "id" : 38016843,
+        "name" : "ADDRESS",
+        "dataTypeName" : "text",
+        "fieldName" : "address",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 6719625,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 23,
+          "largest" : "910 S Aberdeen St",
+          "null" : "0",
+          "top" : [ {
+            "item" : "4921 N Marine Dr",
+            "count" : "1"
+          }, {
+            "item" : "5801 N Pulaski Rd",
+            "count" : "1"
+          }, {
+            "item" : "11338 S Western Ave",
+            "count" : "1"
+          }, {
+            "item" : "2440 N Cannon Dr",
+            "count" : "1"
+          }, {
+            "item" : "5701 S Narragansett Ave",
+            "count" : "1"
+          }, {
+            "item" : "4100 N Long Ave",
+            "count" : "1"
+          }, {
+            "item" : "8930 S Muskegon Ave",
+            "count" : "1"
+          }, {
+            "item" : "4438 W Wrightwood Ave",
+            "count" : "1"
+          }, {
+            "item" : "100 N Central Park Dr",
+            "count" : "1"
+          }, {
+            "item" : "6700 S Kedzie Ave",
+            "count" : "1"
+          }, {
+            "item" : "5801 N Natoma Ave",
+            "count" : "1"
+          }, {
+            "item" : "6201 W Wrightwood Ave",
+            "count" : "1"
+          }, {
+            "item" : "910 S Aberdeen St",
+            "count" : "1"
+          }, {
+            "item" : "3117 S Rhodes Ave",
+            "count" : "1"
+          }, {
+            "item" : "6601 N Western Ave",
+            "count" : "1"
+          }, {
+            "item" : "900 S Columbus Dr",
+            "count" : "1"
+          }, {
+            "item" : "2210 W Pershing Rd",
+            "count" : "1"
+          }, {
+            "item" : "3400 N Rockwell St",
+            "count" : "1"
+          }, {
+            "item" : "3721 W 111th St",
+            "count" : "1"
+          }, {
+            "item" : "6300 S Cornell Dr",
+            "count" : "1"
+          } ],
+          "smallest" : "100 N Central Park Dr",
+          "not_null" : "23",
+          "cardinality" : "23"
+        },
+        "format" : { }
+      }, {
+        "id" : 38016844,
+        "name" : "HOUSE NUMBER",
+        "dataTypeName" : "number",
+        "fieldName" : "house_number",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719626,
+        "width" : 157,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "4672.869565217391",
+          "largest" : "11546",
+          "null" : "0",
+          "top" : [ {
+            "item" : "5801",
+            "count" : "2"
+          }, {
+            "item" : "900",
+            "count" : "2"
+          }, {
+            "item" : "4100",
+            "count" : "1"
+          }, {
+            "item" : "6300",
+            "count" : "1"
+          }, {
+            "item" : "4438",
+            "count" : "1"
+          }, {
+            "item" : "6201",
+            "count" : "1"
+          }, {
+            "item" : "4921",
+            "count" : "1"
+          }, {
+            "item" : "8930",
+            "count" : "1"
+          }, {
+            "item" : "3721",
+            "count" : "1"
+          }, {
+            "item" : "100",
+            "count" : "1"
+          }, {
+            "item" : "5701",
+            "count" : "1"
+          }, {
+            "item" : "11546",
+            "count" : "1"
+          }, {
+            "item" : "1400",
+            "count" : "1"
+          }, {
+            "item" : "3400",
+            "count" : "1"
+          }, {
+            "item" : "6601",
+            "count" : "1"
+          }, {
+            "item" : "2210",
+            "count" : "1"
+          }, {
+            "item" : "2440",
+            "count" : "1"
+          }, {
+            "item" : "11338",
+            "count" : "1"
+          }, {
+            "item" : "910",
+            "count" : "1"
+          }, {
+            "item" : "3117",
+            "count" : "1"
+          } ],
+          "smallest" : "100",
+          "not_null" : "23",
+          "sum" : "107476",
+          "cardinality" : "21"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 38016845,
+        "name" : "STREET DIRECTION",
+        "dataTypeName" : "text",
+        "fieldName" : "street_direction",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 6719627,
+        "width" : 169,
+        "cachedContents" : {
+          "non_null" : 23,
+          "largest" : "W",
+          "null" : "0",
+          "top" : [ {
+            "item" : "N",
+            "count" : "9"
+          }, {
+            "item" : "S",
+            "count" : "9"
+          }, {
+            "item" : "W",
+            "count" : "4"
+          }, {
+            "item" : "E",
+            "count" : "1"
+          } ],
+          "smallest" : "E",
+          "not_null" : "23",
+          "cardinality" : "4"
+        },
+        "format" : { }
+      }, {
+        "id" : 38016846,
+        "name" : "STREET NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "street_name",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 6719628,
+        "width" : 142,
+        "cachedContents" : {
+          "non_null" : 23,
+          "largest" : "Wrightwood",
+          "null" : "0",
+          "top" : [ {
+            "item" : "Wrightwood",
+            "count" : "2"
+          }, {
+            "item" : "Western",
+            "count" : "2"
+          }, {
+            "item" : "Central Park",
+            "count" : "1"
+          }, {
+            "item" : "Natoma",
+            "count" : "1"
+          }, {
+            "item" : "Muskegon",
+            "count" : "1"
+          }, {
+            "item" : "111th",
+            "count" : "1"
+          }, {
+            "item" : "Rhodes",
+            "count" : "1"
+          }, {
+            "item" : "Marine",
+            "count" : "1"
+          }, {
+            "item" : "Narragansett",
+            "count" : "1"
+          }, {
+            "item" : "Cornell",
+            "count" : "1"
+          }, {
+            "item" : "Kedzie",
+            "count" : "1"
+          }, {
+            "item" : "103rd",
+            "count" : "1"
+          }, {
+            "item" : "Rockwell",
+            "count" : "1"
+          }, {
+            "item" : "Pershing",
+            "count" : "1"
+          }, {
+            "item" : "Columbus",
+            "count" : "1"
+          }, {
+            "item" : "Humboldt",
+            "count" : "1"
+          }, {
+            "item" : "Long",
+            "count" : "1"
+          }, {
+            "item" : "Aberdeen",
+            "count" : "1"
+          }, {
+            "item" : "Avenue L",
+            "count" : "1"
+          }, {
+            "item" : "Cannon",
+            "count" : "1"
+          } ],
+          "smallest" : "103rd",
+          "not_null" : "23",
+          "cardinality" : "21"
+        },
+        "format" : { }
+      }, {
+        "id" : 38016847,
+        "name" : "STREET TYPE",
+        "dataTypeName" : "text",
+        "fieldName" : "street_type",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 6719629,
+        "width" : 131,
+        "cachedContents" : {
+          "non_null" : 23,
+          "largest" : "St",
+          "null" : "0",
+          "top" : [ {
+            "item" : "Ave",
+            "count" : "10"
+          }, {
+            "item" : "Dr",
+            "count" : "6"
+          }, {
+            "item" : "St",
+            "count" : "4"
+          }, {
+            "item" : "Rd",
+            "count" : "2"
+          }, {
+            "item" : " ",
+            "count" : "1"
+          } ],
+          "smallest" : " ",
+          "not_null" : "23",
+          "cardinality" : "5"
+        },
+        "format" : { }
+      }, {
+        "id" : 38016848,
+        "name" : "ZIP CODE",
+        "dataTypeName" : "number",
+        "fieldName" : "zip_code",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719630,
+        "width" : 105,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "60628.69565217391",
+          "largest" : "60655",
+          "null" : "0",
+          "top" : [ {
+            "item" : "60639",
+            "count" : "2"
+          }, {
+            "item" : "60617",
+            "count" : "2"
+          }, {
+            "item" : "60655",
+            "count" : "1"
+          }, {
+            "item" : "60629",
+            "count" : "1"
+          }, {
+            "item" : "60645",
+            "count" : "1"
+          }, {
+            "item" : "60638",
+            "count" : "1"
+          }, {
+            "item" : "60640",
+            "count" : "1"
+          }, {
+            "item" : "60631",
+            "count" : "1"
+          }, {
+            "item" : "60622",
+            "count" : "1"
+          }, {
+            "item" : "60616",
+            "count" : "1"
+          }, {
+            "item" : "60618",
+            "count" : "1"
+          }, {
+            "item" : "60641",
+            "count" : "1"
+          }, {
+            "item" : "60646",
+            "count" : "1"
+          }, {
+            "item" : "60628",
+            "count" : "1"
+          }, {
+            "item" : "60624",
+            "count" : "1"
+          }, {
+            "item" : "60643",
+            "count" : "1"
+          }, {
+            "item" : "60637",
+            "count" : "1"
+          }, {
+            "item" : "60605",
+            "count" : "1"
+          }, {
+            "item" : "60607",
+            "count" : "1"
+          }, {
+            "item" : "60609",
+            "count" : "1"
+          } ],
+          "smallest" : "60605",
+          "not_null" : "23",
+          "sum" : "1394460",
+          "cardinality" : "21"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 38016849,
+        "name" : "COMMUNITY AREA",
+        "dataTypeName" : "number",
+        "fieldName" : "community_area",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719631,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "33.04347826086957",
+          "largest" : "75",
+          "null" : "0",
+          "top" : [ {
+            "item" : "13",
+            "count" : "1"
+          }, {
+            "item" : "20",
+            "count" : "1"
+          }, {
+            "item" : "46",
+            "count" : "1"
+          }, {
+            "item" : "74",
+            "count" : "1"
+          }, {
+            "item" : "3",
+            "count" : "1"
+          }, {
+            "item" : "50",
+            "count" : "1"
+          }, {
+            "item" : "75",
+            "count" : "1"
+          }, {
+            "item" : "66",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "32",
+            "count" : "1"
+          }, {
+            "item" : "24",
+            "count" : "1"
+          }, {
+            "item" : "56",
+            "count" : "1"
+          }, {
+            "item" : "59",
+            "count" : "1"
+          }, {
+            "item" : "28",
+            "count" : "1"
+          }, {
+            "item" : "15",
+            "count" : "1"
+          }, {
+            "item" : "19",
+            "count" : "1"
+          }, {
+            "item" : "35",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "42",
+            "count" : "1"
+          }, {
+            "item" : "52",
+            "count" : "1"
+          } ],
+          "smallest" : "2",
+          "not_null" : "23",
+          "sum" : "760",
+          "cardinality" : "23"
+        },
+        "format" : { }
+      }, {
+        "id" : 38016850,
+        "name" : "WARD",
+        "dataTypeName" : "number",
+        "fieldName" : "ward",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719632,
+        "width" : 87,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "24.82608695652174",
+          "largest" : "50",
+          "null" : "0",
+          "top" : [ {
+            "item" : "19",
+            "count" : "2"
+          }, {
+            "item" : "47",
+            "count" : "1"
+          }, {
+            "item" : "39",
+            "count" : "1"
+          }, {
+            "item" : "11",
+            "count" : "1"
+          }, {
+            "item" : "38",
+            "count" : "1"
+          }, {
+            "item" : "29",
+            "count" : "1"
+          }, {
+            "item" : "18",
+            "count" : "1"
+          }, {
+            "item" : "25",
+            "count" : "1"
+          }, {
+            "item" : "8",
+            "count" : "1"
+          }, {
+            "item" : "50",
+            "count" : "1"
+          }, {
+            "item" : "43",
+            "count" : "1"
+          }, {
+            "item" : "48",
+            "count" : "1"
+          }, {
+            "item" : "4",
+            "count" : "1"
+          }, {
+            "item" : "5",
+            "count" : "1"
+          }, {
+            "item" : "23",
+            "count" : "1"
+          }, {
+            "item" : "26",
+            "count" : "1"
+          }, {
+            "item" : "41",
+            "count" : "1"
+          }, {
+            "item" : "28",
+            "count" : "1"
+          }, {
+            "item" : "2",
+            "count" : "1"
+          }, {
+            "item" : "7",
+            "count" : "1"
+          } ],
+          "smallest" : "2",
+          "not_null" : "23",
+          "sum" : "571",
+          "cardinality" : "22"
+        },
+        "format" : { }
+      }, {
+        "id" : 38016851,
+        "name" : "X_COORD",
+        "dataTypeName" : "number",
+        "fieldName" : "x_coord",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719633,
+        "width" : 109,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "1162534.171826087",
+          "largest" : "1201873.579",
+          "null" : "0",
+          "top" : [ {
+            "item" : "1169169.093",
+            "count" : "1"
+          }, {
+            "item" : "1130872.942",
+            "count" : "1"
+          }, {
+            "item" : "1162386.938",
+            "count" : "1"
+          }, {
+            "item" : "1148723.501",
+            "count" : "1"
+          }, {
+            "item" : "1139577.656",
+            "count" : "1"
+          }, {
+            "item" : "1178349.701",
+            "count" : "1"
+          }, {
+            "item" : "1156163.208",
+            "count" : "1"
+          }, {
+            "item" : "1196526.837",
+            "count" : "1"
+          }, {
+            "item" : "1156241.202",
+            "count" : "1"
+          }, {
+            "item" : "1158226.523",
+            "count" : "1"
+          }, {
+            "item" : "1184213.222",
+            "count" : "1"
+          }, {
+            "item" : "1201873.579",
+            "count" : "1"
+          }, {
+            "item" : "1169935.994",
+            "count" : "1"
+          }, {
+            "item" : "1152446.686",
+            "count" : "1"
+          }, {
+            "item" : "1174425.929",
+            "count" : "1"
+          }, {
+            "item" : "1159158.281",
+            "count" : "1"
+          }, {
+            "item" : "1153420.77",
+            "count" : "1"
+          }, {
+            "item" : "1134617.033",
+            "count" : "1"
+          }, {
+            "item" : "1134735.303",
+            "count" : "1"
+          }, {
+            "item" : "1180450.455",
+            "count" : "1"
+          } ],
+          "smallest" : "1130872.942",
+          "not_null" : "23",
+          "sum" : "26738285.952",
+          "cardinality" : "23"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "precision" : "3",
+          "align" : "right"
+        }
+      }, {
+        "id" : 38016852,
+        "name" : "Y_COORD",
+        "dataTypeName" : "number",
+        "fieldName" : "y_coord",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719634,
+        "width" : 105,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "1890422.933565217",
+          "largest" : "1943779.524",
+          "null" : "0",
+          "top" : [ {
+            "item" : "1926748.676",
+            "count" : "1"
+          }, {
+            "item" : "1863512.592",
+            "count" : "1"
+          }, {
+            "item" : "1922486.977",
+            "count" : "1"
+          }, {
+            "item" : "1830692.554",
+            "count" : "1"
+          }, {
+            "item" : "1943779.524",
+            "count" : "1"
+          }, {
+            "item" : "1938044.237",
+            "count" : "1"
+          }, {
+            "item" : "1866035.674",
+            "count" : "1"
+          }, {
+            "item" : "1884343.889",
+            "count" : "1"
+          }, {
+            "item" : "1938179.317",
+            "count" : "1"
+          }, {
+            "item" : "1896068.524",
+            "count" : "1"
+          }, {
+            "item" : "1836906.635",
+            "count" : "1"
+          }, {
+            "item" : "1917188.427",
+            "count" : "1"
+          }, {
+            "item" : "1828812.967",
+            "count" : "1"
+          }, {
+            "item" : "1933234.197",
+            "count" : "1"
+          }, {
+            "item" : "1829229.213",
+            "count" : "1"
+          }, {
+            "item" : "1896246.477",
+            "count" : "1"
+          }, {
+            "item" : "1909195.121",
+            "count" : "1"
+          }, {
+            "item" : "1916760.22",
+            "count" : "1"
+          }, {
+            "item" : "1900689.923",
+            "count" : "1"
+          }, {
+            "item" : "1860008.381",
+            "count" : "1"
+          } ],
+          "smallest" : "1828812.967",
+          "not_null" : "23",
+          "sum" : "43479727.472",
+          "cardinality" : "23"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "precision" : "3",
+          "align" : "right"
+        }
+      }, {
+        "id" : 38016853,
+        "name" : "LATITUDE",
+        "dataTypeName" : "number",
+        "fieldName" : "latitude",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719635,
+        "width" : 129,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "41.85495472347826",
+          "largest" : "42.00146069",
+          "null" : "0",
+          "top" : [ {
+            "item" : "41.90661858",
+            "count" : "1"
+          }, {
+            "item" : "41.78858994",
+            "count" : "1"
+          }, {
+            "item" : "41.7327341",
+            "count" : "1"
+          }, {
+            "item" : "41.70764215",
+            "count" : "1"
+          }, {
+            "item" : "41.68705553",
+            "count" : "1"
+          }, {
+            "item" : "41.78055215",
+            "count" : "1"
+          }, {
+            "item" : "41.88335532",
+            "count" : "1"
+          }, {
+            "item" : "42.00146069",
+            "count" : "1"
+          }, {
+            "item" : "41.9866294",
+            "count" : "1"
+          }, {
+            "item" : "41.68500208",
+            "count" : "1"
+          }, {
+            "item" : "41.92729979",
+            "count" : "1"
+          }, {
+            "item" : "41.87061128",
+            "count" : "1"
+          }, {
+            "item" : "41.82315254",
+            "count" : "1"
+          }, {
+            "item" : "41.87032717",
+            "count" : "1"
+          }, {
+            "item" : "41.83790173",
+            "count" : "1"
+          }, {
+            "item" : "41.94305204",
+            "count" : "1"
+          }, {
+            "item" : "41.92875053",
+            "count" : "1"
+          }, {
+            "item" : "41.92699055",
+            "count" : "1"
+          }, {
+            "item" : "41.97229499",
+            "count" : "1"
+          }, {
+            "item" : "41.95510787",
+            "count" : "1"
+          } ],
+          "smallest" : "41.68500208",
+          "not_null" : "23",
+          "sum" : "962.66395864",
+          "cardinality" : "23"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "precision" : "8",
+          "align" : "right"
+        }
+      }, {
+        "id" : 38016854,
+        "name" : "LONGITUDE",
+        "dataTypeName" : "number",
+        "fieldName" : "longitude",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 6719636,
+        "width" : 122,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "-87.67896602217391",
+          "largest" : "-87.53661565",
+          "null" : "0",
+          "top" : [ {
+            "item" : "-87.68056215",
+            "count" : "1"
+          }, {
+            "item" : "-87.79402078",
+            "count" : "1"
+          }, {
+            "item" : "-87.73827846",
+            "count" : "1"
+          }, {
+            "item" : "-87.78076196",
+            "count" : "1"
+          }, {
+            "item" : "-87.53661565",
+            "count" : "1"
+          }, {
+            "item" : "-87.60101281",
+            "count" : "1"
+          }, {
+            "item" : "-87.7031137",
+            "count" : "1"
+          }, {
+            "item" : "-87.70150146",
+            "count" : "1"
+          }, {
+            "item" : "-87.6898319",
+            "count" : "1"
+          }, {
+            "item" : "-87.61333773",
+            "count" : "1"
+          }, {
+            "item" : "-87.71566523",
+            "count" : "1"
+          }, {
+            "item" : "-87.68115428",
+            "count" : "1"
+          }, {
+            "item" : "-87.69384443",
+            "count" : "1"
+          }, {
+            "item" : "-87.62068379",
+            "count" : "1"
+          }, {
+            "item" : "-87.76228458",
+            "count" : "1"
+          }, {
+            "item" : "-87.63447563",
+            "count" : "1"
+          }, {
+            "item" : "-87.65439381",
+            "count" : "1"
+          }, {
+            "item" : "-87.71394",
+            "count" : "1"
+          }, {
+            "item" : "-87.65049179",
+            "count" : "1"
+          }, {
+            "item" : "-87.78152109",
+            "count" : "1"
+          } ],
+          "smallest" : "-87.79402078",
+          "not_null" : "23",
+          "sum" : "-2016.61621851",
+          "cardinality" : "23"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "precision" : "8",
+          "align" : "right"
+        }
+      }, {
+        "id" : 38016855,
+        "name" : "LOCATION",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 14,
+        "renderTypeName" : "location",
+        "tableColumnId" : 6719637,
+        "width" : 196,
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 404289496,
+        "name" : "Boundaries - ZIP Codes",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_rpca_8um6",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 79409530,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_rpca-8um6",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 404289497,
+        "name" : "Community Areas",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_vrxf_vc4k",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 79409531,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_vrxf-vc4k",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 404289498,
+        "name" : "Zip Codes",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_6mkv_f3dw",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 79409532,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_6mkv-f3dw",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 404289499,
+        "name" : "Census Tracts",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_bdys_3d7i",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 79409533,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_bdys-3d7i",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 404289500,
+        "name" : "Wards",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_43wa_7qmu",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 79409534,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_43wa-7qmu",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 404289501,
+        "name" : "Historical Wards 2003-2015",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_awaf_s7ux",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 79409535,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_awaf-s7ux",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Metadata" : {
+            "Last Updated Date via Automated Load" : "",
+            "Time Period" : "January 2013",
+            "Frequency" : "Once.",
+            "Data Owner" : "Street & Sanitation"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "scy9-9wg4",
+        "displayName" : "cocadmin",
+        "profileImageUrlLarge" : "/api/users/scy9-9wg4/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/scy9-9wg4/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/scy9-9wg4/profile_images/TINY",
+        "screenName" : "cocadmin",
+        "type" : "interactive"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "3qqc-w7ag",
+        "disabledAt" : 1637685767,
+        "displayName" : "Tom Schenk Jr",
+        "profileImageUrlLarge" : "/api/users/3qqc-w7ag/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/3qqc-w7ag/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/3qqc-w7ag/profile_images/TINY",
+        "screenName" : "Tom Schenk Jr",
+        "type" : "interactive"
+      },
+      "tags" : [ "recycling", "gis" ],
+      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType", "unsaved" ]
+    }
+  },
+  "data" : [ [ "row-r7hw_gerq.yh4z", "00000000-0000-0000-7379-0FBE3DE697C7", 0, 1555570224, null, 1555570226, null, "{ }", "North Center", "3400 N Rockwell St", "3400", "N", "Rockwell", "St", "60618", "5", "47", "1158226.523", "1922486.977", "41.94305204", "-87.69384443", [ null, "41.94305204", "-87.69384443", null, false ], "39", "46", "21538", "110", "18", "13" ]
+, [ "row-5ar3~4yvm-cbj4", "00000000-0000-0000-AB92-C4EF47DBAE50", 0, 1555570224, null, 1555570226, null, "{ }", "Norwood Park", "5801 N Natoma Ave", "5801", "N", "Natoma", "Ave", "60631", "10", "41", "1130872.942", "1938179.317", "41.9866294", "-87.79402078", [ null, "41.9866294", "-87.79402078", null, false ], "17", "36", "22243", "733", "29", "34" ]
+, [ "row-63ik.dd2e.6ima", "00000000-0000-0000-7069-3BFFDF36D899", 0, 1555570224, null, 1555570226, null, "{ }", "Loop", "900 S Columbus Dr", "900", "S", "Columbus", "Dr", "60605", "32", "2", "1178349.701", "1896246.477", "41.87061128", "-87.62068379", [ null, "41.87061128", "-87.62068379", null, false ], "35", "38", "14913", "368", "10", "48" ]
+, [ "row-r6rw~7mfc~dcz7", "00000000-0000-0000-44CE-26232D0C051E", 0, 1555570224, null, 1555570226, null, "{ }", "Pullman", "900 E 103rd St", "900", "E", "103rd", "St", "60628", "50", "8", "1184213.222", "1836906.635", "41.70764215", "-87.60101281", [ null, "41.70764215", "-87.60101281", null, false ], "19", "47", "21861", "643", "35", "9" ]
+, [ "row-tcjt_tjm9-rpbs", "00000000-0000-0000-17DE-F9680DB57CE2", 0, 1555570224, null, 1555570226, null, "{ }", "Mckinley Park", "2210 W Pershing Rd", "2210", "W", "Pershing", "Rd", "60609", "59", "11", "1162172.393", "1878822.959", "41.82315254", "-87.68056215", [ null, "41.82315254", "-87.68056215", null, false ], "37", "56", "14924", "719", "1", "26" ]
+, [ "row-hdxm.xecb_cus8", "00000000-0000-0000-0425-D0682D09A5B9", 0, 1555570224, null, 1555570226, null, "{ }", "Hermosa", "4438 W Wrightwood Ave", "4438", "W", "Wrightwood", "Ave", "60639", "20", "31", "1146174.122", "1917188.427", "41.92875053", "-87.73827846", [ null, "41.92875053", "-87.73827846", null, false ], "2", "21", "22615", "439", "17", "7" ]
+, [ "row-sm26_evdi_vdwq", "00000000-0000-0000-F61A-0DB5C37649A1", 0, 1555570224, null, 1555570226, null, "{ }", "Portage Park", "4100 N Long Ave", "4100", "N", "Long", "Ave", "60641", "15", "38", "1139577.656", "1926748.676", "41.95510787", "-87.76228458", [ null, "41.95510787", "-87.76228458", null, false ], "21", "15", "22618", "260", "19", "25" ]
+, [ "row-mg5c_54vm~axu2", "00000000-0000-0000-5D38-AE8BCCB350CC", 0, 1555570224, null, 1555570226, null, "{ }", "East Side", "11546 S Avenue L", "11546", "S", "Avenue L", " ", "60617", "52", "10", "1201873.579", "1828812.967", "41.68500208", "-87.53661565", [ null, "41.68500208", "-87.53661565", null, false ], "25", "49", "21202", "603", "47", "47" ]
+, [ "row-b6sf.jd8g_xnim", "00000000-0000-0000-785E-9E3E74CE6FAF", 0, 1555570224, null, 1555570226, null, "{ }", "East Garfield Park", "100 N Central Park Dr", "100", "N", "Central Park", "Dr", "60624", "27", "28", "1152446.686", "1900689.923", "41.88335532", "-87.71566523", [ null, "41.88335532", "-87.71566523", null, false ], "30", "28", "21572", "176", "23", "11" ]
+, [ "row-s7ay.6uhw~isiy", "00000000-0000-0000-382B-F9939C7CA2DC", 0, 1555570224, null, 1555570226, null, "{ }", "South Chicago", "8930 S Muskegon Ave", "8930", "S", "Muskegon", "Ave", "60617", "46", "7", "1196526.837", "1846158.576", "41.7327341", "-87.55561477", [ null, "41.7327341", "-87.55561477", null, false ], "25", "42", "21202", "175", "37", "43" ]
+, [ "row-vm6j-8m7d.4xya", "00000000-0000-0000-21E9-B925CC6A4B97", 0, 1555570224, null, 1555570226, null, "{ }", "Lincoln Park", "2440 N Cannon Dr", "2440", "N", "Cannon", "Dr", "60614", "7", "43", "1174425.929", "1916760.22", "41.92699055", "-87.63447563", [ null, "41.92699055", "-87.63447563", null, false ], "16", "68", "21190", "101", "34", "51" ]
+, [ "row-vqh4_taba_2v5d", "00000000-0000-0000-CFFA-8A573754DDF3", 0, 1555570224, null, 1555570226, null, "{ }", "Chicago Lawn", "6700 S Kedzie Ave", "6700", "S", "Kedzie", "Ave", "60629", "66", "18", "1156163.208", "1860008.381", "41.77164589", "-87.7031137", [ null, "41.77164589", "-87.7031137", null, false ], "58", "64", "21867", "383", "31", "6" ]
+, [ "row-yuxe_dw5f_5zjn", "00000000-0000-0000-9F43-FA063F82B458", 0, 1555570224, null, 1555570226, null, "{ }", "Garfield Ridge", "5701 S Narragansett Ave", "5701", "S", "Narragansett", "Ave", "60638", "56", "23", "1134735.303", "1866035.674", "41.78858994", "-87.78152109", [ null, "41.78858994", "-87.78152109", null, false ], "7", "53", "22268", "590", "15", "35" ]
+, [ "row-dndx~5krz_4iq8", "00000000-0000-0000-C7BF-70F3A0EF38A1", 0, 1555570224, null, 1555570226, null, "{ }", "Near West Side", "910 S Aberdeen St", "910", "S", "Aberdeen", "St", "60607", "28", "25", "1169169.093", "1896068.524", "41.87032717", "-87.65439381", [ null, "41.87032717", "-87.65439381", null, false ], "44", "29", "14917", "87", "26", "8" ]
+, [ "row-xwvu.kzjf-a8ca", "00000000-0000-0000-9166-328C56F622D4", 0, 1555570224, null, 1555570226, null, "{ }", "Belmont Cragin", "6201 W Wrightwood Ave", "6201", "W", "Wrightwood", "Ave", "60639", "19", "29", "1134617.033", "1916582.412", "41.92729979", "-87.78076196", [ null, "41.92729979", "-87.78076196", null, false ], "2", "19", "22615", "78", "21", "52" ]
+, [ "row-3mn2.usiq.csun", "00000000-0000-0000-A4E4-55F93E969475", 0, 1555570224, null, 1555570226, null, "{ }", "Uptown", "4921 N Marine Dr", "4921", "N", "Marine", "Dr", "60640", "3", "48", "1169935.994", "1933234.197", "41.97229499", "-87.65049179", [ null, "41.97229499", "-87.65049179", null, false ], "15", "31", "22616", "635", "16", "40" ]
+, [ "row-fxgp_599n~z27w", "00000000-0000-0000-84AF-48FABABBB3D0", 0, 1555570224, null, 1555570226, null, "{ }", "Douglas", "3117 S Rhodes Ave", "3117", "S", "Rhodes", "Ave", "60616", "35", "4", "1180450.455", "1884343.889", "41.83790173", "-87.61333773", [ null, "41.83790173", "-87.61333773", null, false ], "40", "1", "21194", "581", "10", "1" ]
+, [ "row-deu5_fy8p_kwcv", "00000000-0000-0000-7B4E-C6D37C08EBDC", 0, 1555570224, null, 1555570226, null, "{ }", "Morgan Park", "11338 S Western Ave", "11338", "S", "Western", "Ave", "60643", "75", "19", "1162386.938", "1829229.213", "41.68705553", "-87.68115428", [ null, "41.68705553", "-87.68115428", null, false ], "33", "74", "22212", "379", "42", "33" ]
+, [ "row-2c2a.wpi9_9cbc", "00000000-0000-0000-6AA1-74EAB34FDD0C", 0, 1555570224, null, 1555570226, null, "{ }", "West Town", "1400 N Humboldt Dr", "1400", "N", "Humboldt", "Dr", "60622", "24", "26", "1156241.202", "1909195.121", "41.90661858", "-87.70150146", [ null, "41.90661858", "-87.70150146", null, false ], "4", "25", "22535", "301", "49", "10" ]
+, [ "row-r5xh-jyw6-jyud", "00000000-0000-0000-73A2-AD811C1FCB42", 0, 1555570224, null, 1555570226, null, "{ }", "West Ridge", "6601 N Western Ave", "6601", "N", "Western", "Ave", "60645", "2", "50", "1159158.281", "1943779.524", "42.00146069", "-87.6898319", [ null, "42.00146069", "-87.6898319", null, false ], "12", "20", "22528", "320", "27", "42" ]
+, [ "row-28jh_gynm~8rxy", "00000000-0000-0000-7BD4-6745DFA5451D", 0, 1555570224, null, 1555570226, null, "{ }", "Mount Greenwood", "3721 W 111th St", "3721", "W", "111th", "St", "60655", "74", "19", "1153420.77", "1830692.554", "41.69125281", "-87.71394", [ null, "41.69125281", "-87.71394", null, false ], "33", "73", "4447", "264", "42", "33" ]
+, [ "row-ys87-mfax_kgae", "00000000-0000-0000-E58B-AE350A375247", 0, 1555570224, null, 1555570226, null, "{ }", "North Park", "5801 N Pulaski Rd", "5801", "N", "Pulaski", "Rd", "60646", "13", "39", "1148723.501", "1938044.237", "41.98593151", "-87.72836921", [ null, "41.98593151", "-87.72836921", null, false ], "50", "13", "22532", "747", "38", "28" ]
+, [ "row-dgf5_gawi~88cg", "00000000-0000-0000-7378-61FD9BE2A11C", 0, 1555570224, null, 1555570226, null, "{ }", "Woodlawn", "6300 S Cornell Dr", "6300", "S", "Cornell", "Dr", "60637", "42", "5", "1188424.584", "1863512.592", "41.78055215", "-87.5847433", [ null, "41.78055215", "-87.5847433", null, false ], "24", "9", "22260", "134", "33", "32" ]
+ ]
+}
