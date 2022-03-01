@@ -1,23 +1,24 @@
 {
   "meta" : {
     "view" : {
-      "id" : "spxm-tnai",
-      "name" : "Christmas Tree Recycling Locations 2013",
-      "assetType" : "dataset",
+      "id" : "495s-83kj",
+      "name" : "Map of Christmas Tree Recycling Locations",
+      "assetType" : "map",
       "attribution" : "City of Chicago",
       "attributionLink" : "http://www.cityofchicago.org/city/en/depts/streets/provdrs/streets_san/news/2012/dec/city_of_chicago_toofferchristmastreerecyclingat.html",
       "averageRating" : 0,
       "category" : "Environment & Sustainable Development",
-      "createdAt" : 1357610342,
+      "createdAt" : 1357610926,
       "description" : "Locations provided by the city to recycle Christmas trees from January 5-18, 2013. For more information, see http://www.cityofchicago.org/city/en/depts/streets/provdrs/streets_san/news/2012/dec/city_of_chicago_toofferchristmastreerecyclingat.html",
-      "displayType" : "table",
-      "downloadCount" : 2205,
+      "displayType" : "map",
+      "downloadCount" : 245,
       "hideFromCatalog" : false,
       "hideFromDataJson" : false,
-      "indexUpdatedAt" : 1414516969,
+      "indexUpdatedAt" : 1555570235,
       "newBackend" : true,
       "numberOfComments" : 0,
-      "oid" : 2177105,
+      "oid" : 2177121,
+      "previewImageId" : "756d9032-532e-46ba-939a-7b38bfa76184",
       "provenance" : "official",
       "publicationAppendEnabled" : false,
       "publicationDate" : 1357610618,
@@ -27,17 +28,17 @@
       "rowsUpdatedBy" : "3qqc-w7ag",
       "tableId" : 601099,
       "totalTimesRated" : 0,
-      "viewCount" : 1603,
-      "viewLastModified" : 1531341766,
+      "viewCount" : 773,
+      "viewLastModified" : 1531341797,
       "viewType" : "tabular",
       "approvals" : [ {
-        "reviewedAt" : 1357610618,
+        "reviewedAt" : 1357610926,
         "reviewedAutomatically" : true,
         "state" : "approved",
-        "submissionId" : 939508,
+        "submissionId" : 939509,
         "submissionObject" : "public_audience_request",
         "submissionOutcome" : "change_audience",
-        "submittedAt" : 1357610618,
+        "submittedAt" : 1357610926,
         "workflowId" : 2226,
         "submissionDetails" : {
           "permissionType" : "READ"
@@ -127,7 +128,7 @@
         "format" : { },
         "flags" : [ "hidden" ]
       }, {
-        "id" : 38016842,
+        "id" : 38017054,
         "name" : "COMMUNITY AREA NAME",
         "dataTypeName" : "text",
         "fieldName" : "community_area_name",
@@ -137,7 +138,6 @@
         "width" : 212,
         "cachedContents" : {
           "non_null" : 23,
-          "largest" : "Woodlawn",
           "null" : "0",
           "top" : [ {
             "item" : "Pullman",
@@ -200,13 +200,11 @@
             "item" : "Hermosa",
             "count" : "1"
           } ],
-          "smallest" : "Belmont Cragin",
-          "not_null" : "23",
           "cardinality" : "23"
         },
         "format" : { }
       }, {
-        "id" : 38016843,
+        "id" : 38017055,
         "name" : "ADDRESS",
         "dataTypeName" : "text",
         "fieldName" : "address",
@@ -216,7 +214,6 @@
         "width" : 184,
         "cachedContents" : {
           "non_null" : 23,
-          "largest" : "910 S Aberdeen St",
           "null" : "0",
           "top" : [ {
             "item" : "4921 N Marine Dr",
@@ -279,13 +276,11 @@
             "item" : "6300 S Cornell Dr",
             "count" : "1"
           } ],
-          "smallest" : "100 N Central Park Dr",
-          "not_null" : "23",
           "cardinality" : "23"
         },
         "format" : { }
       }, {
-        "id" : 38016844,
+        "id" : 38017056,
         "name" : "HOUSE NUMBER",
         "dataTypeName" : "number",
         "fieldName" : "house_number",
@@ -296,7 +291,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "4672.869565217391",
-          "largest" : "11546",
           "null" : "0",
           "top" : [ {
             "item" : "5801",
@@ -359,8 +353,6 @@
             "item" : "3117",
             "count" : "1"
           } ],
-          "smallest" : "100",
-          "not_null" : "23",
           "sum" : "107476",
           "cardinality" : "21"
         },
@@ -370,7 +362,7 @@
           "align" : "right"
         }
       }, {
-        "id" : 38016845,
+        "id" : 38017057,
         "name" : "STREET DIRECTION",
         "dataTypeName" : "text",
         "fieldName" : "street_direction",
@@ -380,7 +372,6 @@
         "width" : 169,
         "cachedContents" : {
           "non_null" : 23,
-          "largest" : "W",
           "null" : "0",
           "top" : [ {
             "item" : "N",
@@ -395,13 +386,11 @@
             "item" : "E",
             "count" : "1"
           } ],
-          "smallest" : "E",
-          "not_null" : "23",
           "cardinality" : "4"
         },
         "format" : { }
       }, {
-        "id" : 38016846,
+        "id" : 38017058,
         "name" : "STREET NAME",
         "dataTypeName" : "text",
         "fieldName" : "street_name",
@@ -411,7 +400,6 @@
         "width" : 142,
         "cachedContents" : {
           "non_null" : 23,
-          "largest" : "Wrightwood",
           "null" : "0",
           "top" : [ {
             "item" : "Wrightwood",
@@ -474,13 +462,11 @@
             "item" : "Cannon",
             "count" : "1"
           } ],
-          "smallest" : "103rd",
-          "not_null" : "23",
           "cardinality" : "21"
         },
         "format" : { }
       }, {
-        "id" : 38016847,
+        "id" : 38017059,
         "name" : "STREET TYPE",
         "dataTypeName" : "text",
         "fieldName" : "street_type",
@@ -490,7 +476,6 @@
         "width" : 131,
         "cachedContents" : {
           "non_null" : 23,
-          "largest" : "St",
           "null" : "0",
           "top" : [ {
             "item" : "Ave",
@@ -508,13 +493,11 @@
             "item" : " ",
             "count" : "1"
           } ],
-          "smallest" : " ",
-          "not_null" : "23",
           "cardinality" : "5"
         },
         "format" : { }
       }, {
-        "id" : 38016848,
+        "id" : 38017060,
         "name" : "ZIP CODE",
         "dataTypeName" : "number",
         "fieldName" : "zip_code",
@@ -525,7 +508,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "60628.69565217391",
-          "largest" : "60655",
           "null" : "0",
           "top" : [ {
             "item" : "60639",
@@ -588,8 +570,6 @@
             "item" : "60609",
             "count" : "1"
           } ],
-          "smallest" : "60605",
-          "not_null" : "23",
           "sum" : "1394460",
           "cardinality" : "21"
         },
@@ -599,7 +579,7 @@
           "align" : "right"
         }
       }, {
-        "id" : 38016849,
+        "id" : 38017061,
         "name" : "COMMUNITY AREA",
         "dataTypeName" : "number",
         "fieldName" : "community_area",
@@ -610,7 +590,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "33.04347826086957",
-          "largest" : "75",
           "null" : "0",
           "top" : [ {
             "item" : "13",
@@ -673,14 +652,12 @@
             "item" : "52",
             "count" : "1"
           } ],
-          "smallest" : "2",
-          "not_null" : "23",
           "sum" : "760",
           "cardinality" : "23"
         },
         "format" : { }
       }, {
-        "id" : 38016850,
+        "id" : 38017062,
         "name" : "WARD",
         "dataTypeName" : "number",
         "fieldName" : "ward",
@@ -691,7 +668,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "24.82608695652174",
-          "largest" : "50",
           "null" : "0",
           "top" : [ {
             "item" : "19",
@@ -754,14 +730,12 @@
             "item" : "7",
             "count" : "1"
           } ],
-          "smallest" : "2",
-          "not_null" : "23",
           "sum" : "571",
           "cardinality" : "22"
         },
         "format" : { }
       }, {
-        "id" : 38016851,
+        "id" : 38017063,
         "name" : "X_COORD",
         "dataTypeName" : "number",
         "fieldName" : "x_coord",
@@ -772,7 +746,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "1162534.171826087",
-          "largest" : "1201873.579",
           "null" : "0",
           "top" : [ {
             "item" : "1169169.093",
@@ -835,8 +808,6 @@
             "item" : "1180450.455",
             "count" : "1"
           } ],
-          "smallest" : "1130872.942",
-          "not_null" : "23",
           "sum" : "26738285.952",
           "cardinality" : "23"
         },
@@ -847,7 +818,7 @@
           "align" : "right"
         }
       }, {
-        "id" : 38016852,
+        "id" : 38017064,
         "name" : "Y_COORD",
         "dataTypeName" : "number",
         "fieldName" : "y_coord",
@@ -858,7 +829,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "1890422.933565217",
-          "largest" : "1943779.524",
           "null" : "0",
           "top" : [ {
             "item" : "1926748.676",
@@ -921,8 +891,6 @@
             "item" : "1860008.381",
             "count" : "1"
           } ],
-          "smallest" : "1828812.967",
-          "not_null" : "23",
           "sum" : "43479727.472",
           "cardinality" : "23"
         },
@@ -933,7 +901,7 @@
           "align" : "right"
         }
       }, {
-        "id" : 38016853,
+        "id" : 38017065,
         "name" : "LATITUDE",
         "dataTypeName" : "number",
         "fieldName" : "latitude",
@@ -944,7 +912,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "41.85495472347826",
-          "largest" : "42.00146069",
           "null" : "0",
           "top" : [ {
             "item" : "41.90661858",
@@ -1007,8 +974,6 @@
             "item" : "41.95510787",
             "count" : "1"
           } ],
-          "smallest" : "41.68500208",
-          "not_null" : "23",
           "sum" : "962.66395864",
           "cardinality" : "23"
         },
@@ -1019,7 +984,7 @@
           "align" : "right"
         }
       }, {
-        "id" : 38016854,
+        "id" : 38017066,
         "name" : "LONGITUDE",
         "dataTypeName" : "number",
         "fieldName" : "longitude",
@@ -1030,7 +995,6 @@
         "cachedContents" : {
           "non_null" : 23,
           "average" : "-87.67896602217391",
-          "largest" : "-87.53661565",
           "null" : "0",
           "top" : [ {
             "item" : "-87.68056215",
@@ -1093,8 +1057,6 @@
             "item" : "-87.78152109",
             "count" : "1"
           } ],
-          "smallest" : "-87.79402078",
-          "not_null" : "23",
           "sum" : "-2016.61621851",
           "cardinality" : "23"
         },
@@ -1105,7 +1067,7 @@
           "align" : "right"
         }
       }, {
-        "id" : 38016855,
+        "id" : 38017067,
         "name" : "LOCATION",
         "dataTypeName" : "location",
         "fieldName" : "location",
@@ -1116,7 +1078,7 @@
         "format" : { },
         "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
       }, {
-        "id" : 404289496,
+        "id" : 404289502,
         "name" : "Boundaries - ZIP Codes",
         "dataTypeName" : "number",
         "fieldName" : ":@computed_region_rpca_8um6",
@@ -1133,7 +1095,7 @@
         },
         "format" : { }
       }, {
-        "id" : 404289497,
+        "id" : 404289504,
         "name" : "Community Areas",
         "dataTypeName" : "number",
         "fieldName" : ":@computed_region_vrxf_vc4k",
@@ -1150,7 +1112,7 @@
         },
         "format" : { }
       }, {
-        "id" : 404289498,
+        "id" : 404289506,
         "name" : "Zip Codes",
         "dataTypeName" : "number",
         "fieldName" : ":@computed_region_6mkv_f3dw",
@@ -1167,7 +1129,7 @@
         },
         "format" : { }
       }, {
-        "id" : 404289499,
+        "id" : 404289508,
         "name" : "Census Tracts",
         "dataTypeName" : "number",
         "fieldName" : ":@computed_region_bdys_3d7i",
@@ -1184,7 +1146,7 @@
         },
         "format" : { }
       }, {
-        "id" : 404289500,
+        "id" : 404289510,
         "name" : "Wards",
         "dataTypeName" : "number",
         "fieldName" : ":@computed_region_43wa_7qmu",
@@ -1201,7 +1163,7 @@
         },
         "format" : { }
       }, {
-        "id" : 404289501,
+        "id" : 404289512,
         "name" : "Historical Wards 2003-2015",
         "dataTypeName" : "number",
         "fieldName" : ":@computed_region_awaf_s7ux",
@@ -1218,8 +1180,39 @@
         },
         "format" : { }
       } ],
+      "displayFormat" : {
+        "viewport" : {
+          "ymin" : 41.667218559927,
+          "xmin" : -88.184799873863,
+          "ymax" : 42.028587797175,
+          "xmax" : -87.184288704569
+        },
+        "distinctLegend" : false,
+        "bkgdLayers" : [ {
+          "layerName" : "Google Roadmap",
+          "opacity" : 1
+        } ],
+        "exclusiveLayers" : false,
+        "viewDefinitions" : [ {
+          "uid" : "self",
+          "color" : "#0000ff",
+          "plot" : {
+            "locationId" : 6719637,
+            "titleId" : 6719625,
+            "descriptionColumns" : [ {
+              "tableColumnId" : 6719624
+            }, {
+              "tableColumnId" : 6719630
+            }, {
+              "tableColumnId" : 6719632
+            } ]
+          },
+          "flyoutsNoLabel" : false,
+          "plotStyle" : "point"
+        } ]
+      },
       "grants" : [ {
-        "inherited" : false,
+        "inherited" : true,
         "type" : "viewer",
         "flags" : [ "public" ]
       } ],
@@ -1232,10 +1225,15 @@
             "Data Owner" : "Street & Sanitation"
           }
         },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
         "renderTypeConfig" : {
           "visible" : {
-            "table" : true
+            "map" : true
+          },
+          "active" : {
+            "page" : {
+              "id" : "self"
+            }
           }
         }
       },
@@ -1261,7 +1259,7 @@
         "type" : "interactive"
       },
       "tags" : [ "recycling", "gis" ],
-      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType", "unsaved" ]
+      "flags" : [ "ownerMayBeContacted", "unsaved" ]
     }
   },
   "data" : [ [ "row-r7hw_gerq.yh4z", "00000000-0000-0000-7379-0FBE3DE697C7", 0, 1555570224, null, 1555570226, null, "{ }", "North Center", "3400 N Rockwell St", "3400", "N", "Rockwell", "St", "60618", "5", "47", "1158226.523", "1922486.977", "41.94305204", "-87.69384443", [ null, "41.94305204", "-87.69384443", null, false ], "39", "46", "21538", "110", "18", "13" ]
